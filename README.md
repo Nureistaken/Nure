@@ -1,4 +1,4 @@
-# Nure
+# readme.md
 # 💫 About Me:
 i am learning python.
 
